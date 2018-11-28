@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/DSC_0378.jpg);
+}
+.section-1{
+    color: white;
+    border: 10px solid black;
+    margin: 0px 0px 40px 0px;
+}
+
+#timer{
+    text-shadow: 0px 1px red;
+    margin: 0px 0px 40px 0px;
+}
+
+.section-2{
+
+}
+
+table{
+    color: white;
+}
