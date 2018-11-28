@@ -1,0 +1,6 @@
+The train homework is fucking weird. I still don't know firebase too well but I assume that as we go along during the week, we will
+learn more. 
+
+The first thing that he mentioned was that we will require time translations or something so that way we operate on a 12 hour system
+
+read the instructions for more I guess?
